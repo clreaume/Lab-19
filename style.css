@@ -1,0 +1,11 @@
+h1, h2, p, div, section, aside{
+  text-align: center;
+}
+
+section{
+  color: #ff0000;
+}
+
+aside{
+  text-decoration: underline;
+}
